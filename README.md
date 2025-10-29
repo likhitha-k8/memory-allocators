@@ -54,7 +54,7 @@ _Complexity: **O(1)**_
 ### Allocate
 Simply move the pointer (or offset) forward.
 
-![Allocating memory in a Linear Allocator](https://github.com/likhitha-k8/memory-allocators/tree/main/docs/images/linear2.png)
+![Allocating memory in a Linear Allocator](https://github.com/likhitha-k8/memory-allocators/docs/images/linear2.png)
 
 _Complexity: **O(1)**_
 
